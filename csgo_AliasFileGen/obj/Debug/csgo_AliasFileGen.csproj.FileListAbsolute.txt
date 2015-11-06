@@ -1,0 +1,6 @@
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\bin\Debug\csgo_AliasFileGen.exe.config
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\bin\Debug\csgo_AliasFileGen.exe
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\bin\Debug\csgo_AliasFileGen.pdb
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\obj\Debug\csgo_AliasFileGen.csprojResolveAssemblyReference.cache
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\obj\Debug\csgo_AliasFileGen.exe
+c:\users\01110011\documents\visual studio 2013\Projects\csgo_AliasFileGen\csgo_AliasFileGen\obj\Debug\csgo_AliasFileGen.pdb
