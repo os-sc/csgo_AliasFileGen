@@ -9,4 +9,4 @@ definition and generates a new config file which echos all the aliases.
   
   
   
-###### This code is horrybad, but somehow works
+###### This code is horrybad, but somehow works ¯\_(ツ)_/¯
